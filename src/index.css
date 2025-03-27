@@ -52,3 +52,13 @@ body {
   text-align: center;
   /* max-width: 200px; */
 }
+
+.listing ul {
+  text-align: center;
+  list-style: none;
+}
+.items-category {
+  text-align: center;
+  padding: 6px 10px;
+  background-color: #22b8f8aa;
+}
